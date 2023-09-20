@@ -55,10 +55,7 @@ To run the project locally on your machine, follow these steps:
 
 - **Dashboard Navigation:** Access the connections page by clicking the dashboard button. Clicking the button again will close the connections page.
 
-## Deployment Links
 
-- **Fully Functional Site:** [FullStack Connections - Live Site]()
-- **Frontend Responsive Testing:** [Frontend Only - Live]()
 
 Feel free to explore the live site and test its responsive design using the provided links.
 
